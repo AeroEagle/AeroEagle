@@ -3,6 +3,8 @@
 <!--
 **AeroEagle/AeroEagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+This is a link for Mastodon verification: <a rel="me" href="https://mas.to/@AeroEagle">Mastodon</a>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
