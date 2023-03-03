@@ -2,7 +2,7 @@
 
 - My name is Michael Haider, but you can call me Mike.
 - 🔭 I’m currently working on operating system build and deployment using Microsoft Endpoint Configuration Manager in a 30,000+ client environment.
-- 🌱 I’m currently learning PowerShell, but would like to learn more SQL and Python.
+- 🌱 I’m currently learning PowerShell, but would also like to learn more SQL and Python.
 - 📫 How to reach me: Check my social links! 
 This is a work in progress as I get on my feet here. Thanks for stopping by!
 <!--
